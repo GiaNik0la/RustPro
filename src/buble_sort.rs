@@ -16,9 +16,7 @@ pub fn run(mut test_array: [i32; 6]) {
     }
 
     // Printing results
-    for _b in test_array {
-        println!("{}", _b);
-    }
+    println!("{}", test_array);
 }
 
 // I know my comments are useless
