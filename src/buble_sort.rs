@@ -15,7 +15,6 @@ pub fn run(mut test_array: [i32; 6]) {
         }
     }
 
-    // Printing results
     println!("{}", test_array);
 }
 
