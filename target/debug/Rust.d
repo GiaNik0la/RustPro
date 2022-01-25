@@ -1,1 +1,1 @@
-/home/gia/Desktop/Rust/target/debug/Rust: /home/gia/Desktop/Rust/src/buble_sort.rs /home/gia/Desktop/Rust/src/main.rs
+/home/gia/git/RustPro/target/debug/Rust: /home/gia/git/RustPro/src/buble_sort.rs /home/gia/git/RustPro/src/main.rs

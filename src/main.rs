@@ -1,5 +1,5 @@
-mod variables;
+mod buble_sort;
 
 fn main() {
-    variables::run();
+    buble_sort::run([21, 54, 23, 23, 64, 120]);
 }
